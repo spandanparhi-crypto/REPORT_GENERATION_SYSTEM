@@ -10,12 +10,6 @@ An intelligent **Report Generation System** that automates report creation from 
 
 ---
 
-# 📽️ Project Video
-
-🎥 **Project Walkthrough:** https://quickest-purple-g4bzv4oi.edgeone.dev/
-
----
-
 # 📌 Project Aim
 
 The Report Generation System reduces manual reporting by automatically analyzing uploaded datasets and generating clean, professional reports with visual insights.
